@@ -18,9 +18,12 @@ Subset data to only include delay flights and two airlines: American and Delta.
 New Dataset Size is 310,983 obs. 
 
 
-Feel free to play with the interactive dashboard that I created:
+
+
+##Feel free to play with the interactive dashboard that I created:
 
 https://huiminou.shinyapps.io/Flight_Delay/. 
+
 
 Author: Huimin Ou. 
 
