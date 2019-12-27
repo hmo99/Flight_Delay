@@ -6,6 +6,11 @@ Direct Aircraft Operating Cost is 74.2 $/min. Flight delays cost airlines billio
 It is important for the airlines to minimize flight delays.
 This app can help the airline to better visualize flight delays.
 
+#### Feel free to play with the interactive dashboard that I created:
+
+https://huiminou.shinyapps.io/Flight_Delay/. 
+
+
 ## Data
 2018 Flight Data: Data Source: https://www.kaggle.com/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018. 
 
@@ -17,16 +22,3 @@ Subset data to only include delay flights and two airlines: American and Delta.
 
 New Dataset Size is 310,983 obs. 
 
-
-
-
-#### Feel free to play with the interactive dashboard that I created:
-
-https://huiminou.shinyapps.io/Flight_Delay/. 
-
-
-Author: Huimin Ou. 
-
-Email: huimin.ou99@gmail.com .
-
-Linkedin: linkedin.com/in/huimin-ou
