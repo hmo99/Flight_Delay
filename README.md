@@ -15,6 +15,6 @@ New Dataset Size is 310,983 obs
 Feel free to play with the interactive dashboard that I created:
 https://huiminou.shinyapps.io/Flight_Delay/
 
-Author: Huimin Ou
-Email: huimin.ou99@gmail.com
+Author: Huimin Ou. 
+Email: huimin.ou99@gmail.com . 
 Linkedin: linkedin.com/in/huimin-ou
